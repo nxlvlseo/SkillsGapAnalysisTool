@@ -1,0 +1,5 @@
+streamlit
+pandas
+numpy # If needed for data manipulation
+scikit-learn # Potentially for NLP or ML models
+nltk # For natural language processing tasks
